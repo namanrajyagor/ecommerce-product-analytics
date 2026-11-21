@@ -1,0 +1,20 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/
+
+# Data files (public A/B dataset; re-download and re-run the notebook)
+data/raw/
+data/processed/
+
+# Personal interview prep (not for GitHub)
+*Study_Guide*.pdf
+
+# Windows system files
+desktop.ini
+Thumbs.db
